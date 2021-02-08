@@ -12,6 +12,7 @@ class NameLogo extends React.Component {
         return (
             <div className='rc-NameLogo'>
                 <span className='-title'>{firstName}</span>
+                {' '}
                 <span className="-title x-light">{lastName}</span>
                 <div className="-subtitle">{title}</div>
             </div>
