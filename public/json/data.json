@@ -14,7 +14,7 @@
   "projects": [
     {
       "title": "Aureoo - Online Service",
-      "description": "Website: https://www.aureoo.com/en/",
+      "website": "https://www.aureoo.com/en/",
       "date": "Nov 2019 — Mar 2020",
       "image": "public/img/aureoo.png",
       "details": [
@@ -29,8 +29,8 @@
       ]
     },
     {
-      "title": "SaaS for Restaurants",
-      "description": "Website: https://www.agnoris.com/",
+      "title": "Agnoris - SaaS for Restaurants",
+      "website": "https://www.agnoris.com/",
       "date": "July 2019 — Dec 2019",
       "image": "public/img/agnoris.svg",
       "details": [
@@ -45,8 +45,8 @@
       ]
     },
     {
-      "title": "Questionnaire/Report Site",
-      "description": "Website: https://service.comisec.fr",
+      "title": "Comisec - Questionnaire/Report Site",
+      "website": "https://service.comisec.fr",
       "date": "Nov 2018 - Feb 2019",
       "image": "public/img/comisec.png",
       "details": [
@@ -57,8 +57,8 @@
       ]
     },
     {
-      "title": "Sports Betting Website",
-      "description": "Website: https://punterspicks.com/",
+      "title": "Punterspicks - Sports Betting Website",
+      "website": "https://punterspicks.com/",
       "date": "Oct 2017 — Aug 2018",
       "image": "public/img/punterspicks.png",
       "details": [

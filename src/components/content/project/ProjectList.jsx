@@ -40,6 +40,7 @@ class ProjectList extends React.Component {
                 {image}
                 <div className='-title'>{project.title}</div>
                 <div className='-description'>{project.description}</div>
+                <div className='-website'><a href={project.website}>{project.website}</a></div>
                 <div className='-date'>{project.date}</div>
                 {details}
             </div>

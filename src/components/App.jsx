@@ -19,14 +19,8 @@ class App extends React.Component {
                 <Header profile={this.props.data.profile} />
                 <Content>
                     <About data={this.props.data} />
-                    <Section title='Experience'>
-                        <Experience data={this.props.data} />
-                    </Section>
                     <Section title='Projects'>
                         <Project data={this.props.data} />
-                    </Section>
-                    <Section title='Education'>
-                        <Education data={this.props.data} />
                     </Section>
                     <Section title='Contact'>
                         <Contact data={this.props.data} />
